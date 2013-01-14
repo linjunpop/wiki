@@ -1,1 +1,3 @@
 [[Rails]]
+[[Ruby]]
+[[Git]]
