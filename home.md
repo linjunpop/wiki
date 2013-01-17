@@ -4,6 +4,7 @@
 
 [[Rails]]
 [[Ruby]]
+[[Pow]]
 
 ## Git
 
