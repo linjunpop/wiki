@@ -1,7 +1,5 @@
 # Precious
 
-[[_TOC_]]
-
 ## Ruby
 
 [[Rails]]
