@@ -2,7 +2,7 @@
 
 ## Asynchronous
 
-* Basecampe / IRC
+* Basecamp / Hipchat / IRC
 * Pull-Requests
 
 ## Automation
