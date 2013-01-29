@@ -4,7 +4,7 @@
 
 [[Rails]]
 [[Ruby]]
-[[Pow]]
+[[Conventions]]
 
 ## Git
 
