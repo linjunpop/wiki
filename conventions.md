@@ -2,7 +2,7 @@
 
 1. A script `bin/setup` to setup a project. (Install dependency, initial db, seed data, etc.)
 2. Same database account for dev/test env.
-3. Same user account for dev env.
+3. Same login user account for dev env.
 4. Use foreman as process manager, run all required processes with `foreman start`
 5. Pow as proxy server.
 
