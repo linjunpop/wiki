@@ -21,4 +21,4 @@
 
 ## Workflow
 
-[[Essentials]]
+[[Essentials]] [[Bot]]
