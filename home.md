@@ -5,6 +5,7 @@
 [[Rails]]
 [[Ruby]]
 [[Conventions]]
+[[SemVer]]
 
 ## Git
 
