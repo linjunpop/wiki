@@ -1,5 +1,5 @@
 require 'rubygems'
-require "gollum/frontend/app"
+require "gollum/app"
 
 gollum_path = File.expand_path(File.dirname(__FILE__))
 Precious::App.set(:gollum_path, gollum_path)
