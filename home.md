@@ -2,10 +2,11 @@
 
 ## Ruby
 
-[[Rails]]
-[[Ruby]]
-[[Conventions]]
-[[SemVer]]
+[[Rails]] |
+[[Ruby]] |
+[[Conventions]] |
+[[SemVer]] |
+[[Rack]]
 
 ## Git
 
