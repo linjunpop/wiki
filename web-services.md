@@ -1,5 +1,9 @@
 # Web Services
 
+## Domain name
+
+* https://iwantmyname.com
+
 ## Analytics
 
 * https://segment.io
@@ -7,5 +11,10 @@
 
 ## VPS
 
+* https://www.digitalocean.com (fav)
 * http://www.linode.com
 * http://buyvm.net
+
+## Site performance
+
+* http://gtmetrix.com
