@@ -10,7 +10,7 @@
 
 ## Git
 
-[[Git]]
+[[Git]] |
 [[Github]]
 
 ## HTML
@@ -23,7 +23,8 @@
 
 ## Workflow
 
-[[Essentials]] [[Bot]]
+[[Essentials]] |
+[[Bot]]
 
 ## OSX
 
