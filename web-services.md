@@ -23,5 +23,6 @@
 
 * http://www.mailgun.com
 * http://sendgrid.com
-* https://mandrillapp.com
+* https://mandrillapp.com (fav)
 * http://mailchimp.com
+* http://sendcloud.sohu.com
