@@ -18,3 +18,10 @@
 ## Site performance
 
 * http://gtmetrix.com
+
+## Email
+
+* http://www.mailgun.com
+* http://sendgrid.com
+* https://mandrillapp.com
+* http://mailchimp.com
